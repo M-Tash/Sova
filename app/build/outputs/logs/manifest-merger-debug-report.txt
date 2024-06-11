@@ -1,0 +1,757 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\d43e3521778d978d0b5ae04569a0c85e\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\moham\.gradle\caches\transforms-3\4118210ebb2077b7be4a7fb6b5968ebc\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\moham\.gradle\caches\transforms-3\18c1b551b17019c56dd24442f47b308d\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.Stjinchan:ExpandableCardView:1.3.0-beta02] C:\Users\moham\.gradle\caches\transforms-3\8783938695cedff422744f40eed8de7c\transformed\jetified-ExpandableCardView-1.3.0-beta02\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\moham\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moham\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\9fcd71b74993ce137981334ebd65f441\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\5d666d306352f7fdca8df50525096bc2\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\moham\.gradle\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\moham\.gradle\caches\transforms-3\29f64f4ca270a5b2cc447996e69d724a\transformed\fragment-1.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\99f662ed6692e4fb49de2e4d0dfea8c4\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.daimajia.androidanimations:library:2.4] C:\Users\moham\.gradle\caches\transforms-3\1740f529d51b1b3fd3fe60feb88675f3\transformed\jetified-library-2.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\2dfad1c4b1f4933b113268326f4fada7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\1250affac99cc108bdc075f3eae6a3a7\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\89a7ce6f9a9bd63d0dd32d3332be3e6b\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\c69c21b0b1e1eba92d7a321f8431b5ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\moham\.gradle\caches\transforms-3\5d4110769af9163e6071065e275ea74f\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\a3c44f8432148f96e01b659172bba001\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\moham\.gradle\caches\transforms-3\95f4e9bd329ef96fa3206df52619faf8\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+	package
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:1-245:12
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:8:5-95
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:8:22-92
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:9:22-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:12:5-85
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:12:22-82
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:15:5-85
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:15:22-82
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:24:5-26:47
+	tools:ignore
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:25:9-77
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:27:5-29:47
+	tools:ignore
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:28:9-64
+application
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:31:5-243:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\moham\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\moham\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moham\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moham\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:36:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:34:9-42
+	android:roundIcon
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:37:9-54
+	android:icon
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:35:9-43
+	android:allowBackup
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:32:9-36
+		REJECTED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:39:9-40
+	android:dataExtractionRules
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:33:9-65
+	tools:replace
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:41:9-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:40:9-44
+activity#com.ntmsecurity.sova.ui.listview_item
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:43:13-45
+meta-data#android.app.lib_name
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+	android:value
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+activity#com.ntmsecurity.sova.ui.TrySendSMS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:50:13-42
+activity#com.ntmsecurity.sova.ui.AvailableActions
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:57:13-48
+activity#com.ntmsecurity.sova.ui.JustSMS
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:63:9-69:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:64:13-39
+activity#com.ntmsecurity.sova.ui.AccessContact
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:70:9-76:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:71:13-45
+activity#com.ntmsecurity.sova.ui.AccessLocationDes
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:77:9-83:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:78:13-49
+activity#com.ntmsecurity.sova.ui.GetStarted
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:84:9-90:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:85:13-42
+activity#com.ntmsecurity.sova.ui.StartActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:91:9-103:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:93:13-36
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:92:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:94:13-98:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:27-74
+activity#com.ntmsecurity.sova.ui.DummyCameraActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:104:9-107:66
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:106:13-37
+	android:theme
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:107:13-63
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:105:13-51
+activity#com.ntmsecurity.sova.ui.settings.SovaServerActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:108:9-110:59
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:110:13-56
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:109:13-59
+activity#com.ntmsecurity.sova.ui.settings.OpenCellIdActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:111:9-68
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:111:19-65
+activity#com.ntmsecurity.sova.ui.settings.SovaConfigActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:112:9-114:59
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:114:13-56
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:113:13-59
+activity#com.ntmsecurity.sova.ui.settings.AboutActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:115:9-117:54
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:117:13-51
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:116:13-54
+activity#com.ntmsecurity.sova.ui.settings.WhiteListActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:118:9-120:58
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:120:13-55
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:119:13-58
+activity#com.ntmsecurity.sova.ui.settings.SettingsActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:121:9-123:57
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:123:13-54
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:122:13-57
+activity#com.ntmsecurity.sova.ui.CrashedActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:124:9-126:45
+	android:process
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:126:13-42
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:125:13-47
+activity#com.ntmsecurity.sova.ui.LogActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:127:9-129:35
+	android:label
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:129:13-32
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:128:13-43
+activity#com.ntmsecurity.sova.ui.RingerActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:130:9-135:43
+	android:screenOrientation
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:132:13-55
+	android:turnScreenOn
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:135:13-40
+	android:showWhenLocked
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:134:13-42
+	android:showOnLockScreen
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:133:13-44
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:131:13-46
+activity#com.ntmsecurity.sova.ui.IntroductionActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:136:9-61
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:136:19-58
+activity#com.ntmsecurity.sova.ui.LockScreenMessage
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:137:9-140:47
+	android:screenOrientation
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:139:13-55
+	android:showOnLockScreen
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:140:13-44
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:138:13-49
+activity#com.ntmsecurity.sova.ui.MainActivity
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:141:9-149:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:142:13-44
+receiver#com.ntmsecurity.sova.receiver.DeviceAdminReceiver
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:151:9-162:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:153:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:154:13-70
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:152:13-77
+meta-data#android.app.device_admin
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:155:13-157:63
+	android:resource
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:157:17-60
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:156:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:159:13-161:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:160:17-82
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:160:25-79
+receiver#com.ntmsecurity.sova.receiver.BootReceiver
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:163:9-171:20
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:166:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:167:13-36
+	android:directBootAware
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:165:13-43
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:164:13-70
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:168:13-170:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:169:17-79
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:169:25-76
+receiver#com.ntmsecurity.sova.receiver.SMSReceiver
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:172:9-181:20
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:175:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:176:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:177:13-64
+	android:directBootAware
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:174:13-43
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:173:13-69
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:178:13-180:29
+	android:priority
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:178:28-56
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:179:17-82
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:179:25-79
+receiver#com.ntmsecurity.sova.receiver.AppUpdatedReceiver
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:182:9-188:20
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:184:13-36
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:183:13-76
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:185:13-187:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:186:17-84
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:186:25-81
+service#com.ntmsecurity.sova.services.SovaServerService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:190:9-194:72
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:192:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:194:13-69
+	android:foregroundServiceType
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:193:13-53
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:191:13-75
+service#com.ntmsecurity.sova.services.SovaServerCommandService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:195:9-199:72
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:197:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:199:13-69
+	android:foregroundServiceType
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:198:13-53
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:196:13-82
+service#com.ntmsecurity.sova.services.TempContactExpiredService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:200:9-204:72
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:202:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:203:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:204:13-69
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:201:13-83
+service#com.ntmsecurity.sova.services.GPSTimeOutService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:205:9-209:72
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:207:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:208:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:209:13-69
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:206:13-75
+service#com.ntmsecurity.sova.services.SovaSMSService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:210:9-215:72
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:212:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:213:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:215:13-69
+	android:foregroundServiceType
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:214:13-53
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:211:13-72
+service#com.ntmsecurity.sova.services.ThirdPartyAccessService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:216:9-225:19
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:218:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:219:13-36
+	android:permission
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:221:13-87
+	android:foregroundServiceType
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:220:13-53
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:217:13-81
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:222:13-224:29
+action#android.service.notification.NotificationListenerService
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:223:17-99
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:223:25-96
+receiver#com.ntmsecurity.sova.receiver.PushReceiver
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:227:9-238:20
+	android:enabled
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:229:13-35
+	android:exported
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:230:13-36
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:228:13-70
+intent-filter#action:name:org.unifiedpush.android.connector.MESSAGE+action:name:org.unifiedpush.android.connector.NEW_ENDPOINT+action:name:org.unifiedpush.android.connector.REGISTRATION_FAILED+action:name:org.unifiedpush.android.connector.REGISTRATION_REFUSED+action:name:org.unifiedpush.android.connector.UNREGISTERED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:231:13-237:29
+action#org.unifiedpush.android.connector.MESSAGE
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:232:17-84
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:232:25-81
+action#org.unifiedpush.android.connector.UNREGISTERED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:233:17-89
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:233:25-86
+action#org.unifiedpush.android.connector.NEW_ENDPOINT
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:234:17-89
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:234:25-86
+action#org.unifiedpush.android.connector.REGISTRATION_FAILED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:235:17-96
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:235:25-93
+action#org.unifiedpush.android.connector.REGISTRATION_REFUSED
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:236:17-97
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:236:25-94
+meta-data#preloaded_fonts
+ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:240:9-242:57
+	android:resource
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:242:13-54
+	android:name
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:241:13-43
+uses-sdk
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\d43e3521778d978d0b5ae04569a0c85e\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\d43e3521778d978d0b5ae04569a0c85e\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\moham\.gradle\caches\transforms-3\4118210ebb2077b7be4a7fb6b5968ebc\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\moham\.gradle\caches\transforms-3\4118210ebb2077b7be4a7fb6b5968ebc\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\moham\.gradle\caches\transforms-3\18c1b551b17019c56dd24442f47b308d\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\moham\.gradle\caches\transforms-3\18c1b551b17019c56dd24442f47b308d\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.Stjinchan:ExpandableCardView:1.3.0-beta02] C:\Users\moham\.gradle\caches\transforms-3\8783938695cedff422744f40eed8de7c\transformed\jetified-ExpandableCardView-1.3.0-beta02\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Stjinchan:ExpandableCardView:1.3.0-beta02] C:\Users\moham\.gradle\caches\transforms-3\8783938695cedff422744f40eed8de7c\transformed\jetified-ExpandableCardView-1.3.0-beta02\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\moham\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\moham\.gradle\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moham\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moham\.gradle\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.iamrobj:NotificationHelperLibrary:2.0.5] C:\Users\moham\.gradle\caches\transforms-3\44c7e6388396b060df3238d444bb5ba4\transformed\jetified-NotificationHelperLibrary-2.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\9fcd71b74993ce137981334ebd65f441\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\9fcd71b74993ce137981334ebd65f441\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\5d666d306352f7fdca8df50525096bc2\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\5d666d306352f7fdca8df50525096bc2\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\moham\.gradle\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\moham\.gradle\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\moham\.gradle\caches\transforms-3\29f64f4ca270a5b2cc447996e69d724a\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\moham\.gradle\caches\transforms-3\29f64f4ca270a5b2cc447996e69d724a\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\99f662ed6692e4fb49de2e4d0dfea8c4\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\99f662ed6692e4fb49de2e4d0dfea8c4\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.daimajia.androidanimations:library:2.4] C:\Users\moham\.gradle\caches\transforms-3\1740f529d51b1b3fd3fe60feb88675f3\transformed\jetified-library-2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:2.4] C:\Users\moham\.gradle\caches\transforms-3\1740f529d51b1b3fd3fe60feb88675f3\transformed\jetified-library-2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\moham\.gradle\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\2dfad1c4b1f4933b113268326f4fada7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\2dfad1c4b1f4933b113268326f4fada7\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\1250affac99cc108bdc075f3eae6a3a7\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\1250affac99cc108bdc075f3eae6a3a7\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\89a7ce6f9a9bd63d0dd32d3332be3e6b\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\89a7ce6f9a9bd63d0dd32d3332be3e6b\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\c69c21b0b1e1eba92d7a321f8431b5ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\moham\.gradle\caches\transforms-3\c69c21b0b1e1eba92d7a321f8431b5ef\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\moham\.gradle\caches\transforms-3\5d4110769af9163e6071065e275ea74f\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\moham\.gradle\caches\transforms-3\5d4110769af9163e6071065e275ea74f\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\a3c44f8432148f96e01b659172bba001\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\a3c44f8432148f96e01b659172bba001\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\moham\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moham\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\moham\.gradle\caches\transforms-3\95f4e9bd329ef96fa3206df52619faf8\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\moham\.gradle\caches\transforms-3\95f4e9bd329ef96fa3206df52619faf8\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\e61e6542a8f5850193e65ffa95e8ea64\transformed\jetified-camera-core-1.1.0\AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:33:17-103
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:9:22-65
+queries
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:11:5-18:15
+intent#action:name:org.unifiedpush.android.distributor.REGISTER
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:12:9-14:18
+action#org.unifiedpush.android.distributor.REGISTER
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:13:13-83
+	android:name
+		ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:13:21-80
+intent#action:name:org.unifiedpush.android.distributor.UNREGISTER
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:15:9-17:18
+action#org.unifiedpush.android.distributor.UNREGISTER
+ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:16:13-85
+	android:name
+		ADDED from [com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:16:21-82
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moham\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

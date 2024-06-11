@@ -1,0 +1,954 @@
+[
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_mobile_off_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_mobile_off_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_playlist_add_check_circle_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_playlist_add_check_circle_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_start.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_sms_failed_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_sms_failed_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_about.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/font_poppins.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/font/poppins.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_just_sms.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-mdpi/just_sms.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_whitelist_item.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/whitelist_item.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_ring.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_ring.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_4g_mobiledata_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_4g_mobiledata_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_available_actions.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_available_actions.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_try_send_sms.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_try_send_sms.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_my_location_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_mobile_friendly_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_mobile_friendly_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_alarm_on_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_alarm_on_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_log.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_log.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/xml_device_admin_policy.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/xml/device_admin_policy.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/menu_main_app_bar.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/menu/main_app_bar.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/anim_slide_out_left.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_access_location_des.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_access_location_des.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_history_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_lock_screen_message.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_lock_screen_message.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/font_poppins_medium.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/font/poppins_medium.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_listview_item.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_listview_item.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_cell_tower_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_cell_tower_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_send_to_mobile_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_send_to_mobile_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_contacts_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_contacts_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_introduction.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_introduction.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_white_list.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_white_list.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/menu_menu_navigation.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_verified_user_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_verified_user_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_settings.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_sova_server.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_sova_server.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_access_contact.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-mdpi/access_contact.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_phonelink_lock_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_phonelink_lock_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable_selector.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable/selector.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/anim_slide_out_right.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_4g_mobiledata_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_4g_mobiledata_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-v24_ic_launcher_foreground.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-v24/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_permission_card_layout.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/permission_card_layout.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_settings_item.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/settings_item.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/anim_anim.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/anim/anim.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_open_cell_id.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_open_cell_id.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_expand_more_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_expand_more_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_notification.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_just_sms.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_just_sms.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_location.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-mdpi/location.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_history_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_account_tree_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_account_tree_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_photo_camera_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_verified_user_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_verified_user_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_dummy.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_dummy.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_info_24_2.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_info_24_2.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_share_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_cell_tower_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_cell_tower_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/font_poppins_bold.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/font/poppins_bold.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_sova_config.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_sova_config.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_my_location_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_access_contact.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_access_contact.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_account_tree_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_account_tree_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_phonelink_lock_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_phonelink_lock_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xhdpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xhdpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_lost_phone.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-mdpi/lost_phone.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_playlist_add_check_circle_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_playlist_add_check_circle_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_info_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_crashed.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_crashed.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_expand_more_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_expand_more_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_info_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxxhdpi_ic_baseline_mobile_friendly_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxxhdpi/ic_baseline_mobile_friendly_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_contacts_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_contacts_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_expand_less_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_expand_less_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_send_to_mobile_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_send_to_mobile_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_notification.png.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-anydpi-v21_ic_baseline_share_24.xml.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-anydpi-v21/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/layout_activity_get_started.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_alarm_on_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_alarm_on_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/anim_slide_in_left.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_info_24_2.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_info_24_2.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_settings.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-hdpi_ic_baseline_mobile_off_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-hdpi/ic_baseline_mobile_off_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/anim_slide_in_right.xml.flat",
+        "source": "com.ntmsecurity.sova.app-main-41:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-mdpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-mdpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-ldpi_ic_baseline_sms_failed_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-ldpi/ic_baseline_sms_failed_24.png"
+    },
+    {
+        "merged": "com.ntmsecurity.sova.app-merged_res-39:/drawable-xxhdpi_ic_baseline_info_24.png.flat",
+        "source": "com.ntmsecurity.sova.app-pngs-34:/drawable-xxhdpi/ic_baseline_info_24.png"
+    }
+]

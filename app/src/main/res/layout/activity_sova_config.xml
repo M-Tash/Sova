@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.settings.SovaConfigActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                android:layout_marginTop="10dp"
+                android:layout_margin="1mm"
+                android:textColor="@color/colorAccent"
+                android:text="Sova via Pin" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_Sova_via_Pin_Description" />
+
+            <CheckBox
+                android:id="@+id/checkBoxSovaviaPin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Enable" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                android:layout_margin="1mm"
+                android:textColor="@color/colorAccent"
+                android:text="Pin" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_Pin_Description" />
+
+            <Button
+                android:id="@+id/buttonEnterPin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5mm"
+                android:text="@string/Settings_Enter_Pin"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_margin="1mm"
+                android:textSize="17sp"
+                android:textColor="@color/colorAccent"
+                android:text="Sova command" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_SovaCommand_Description" />
+
+            <EditText
+                android:id="@+id/editTextSovaCommand"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="2mm"
+                android:layout_marginEnd="2mm"
+                android:background="@color/material_dynamic_neutral90"
+                android:ems="10"
+                android:minHeight="48dp"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="15dp"
+                android:text="sova"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_margin="1mm"
+                android:textSize="17sp"
+                android:textColor="@color/colorAccent"
+                android:text="Sova ring" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_Ringer_Tone_Description" />
+
+            <Button
+                android:id="@+id/buttonSelectRingTone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5mm"
+                android:text="@string/Settings_Select_Ringtone"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_margin="1mm"
+                android:textSize="17sp"
+                android:textColor="@color/colorAccent"
+                android:text="Sova lock" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_Lockscreenmessage_Description" />
+
+            <EditText
+                android:id="@+id/editTextTextLockScreenMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="2mm"
+                android:layout_marginEnd="2mm"
+                android:background="@color/material_dynamic_neutral90"
+                android:ems="10"
+                android:minHeight="48dp"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="15dp"
+                android:text="" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_margin="1mm"
+                android:textSize="17sp"
+                android:textColor="@color/colorAccent"
+                android:text="Sova delete" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Settings_Sova_delete_Description" />
+
+            <CheckBox
+                android:id="@+id/checkBoxWipeData"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1mm"
+                android:text="@string/Enable" />
+
+            <Button
+                android:id="@+id/buttonSave"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save"
+                android:layout_gravity="center"
+                android:layout_margin="2mm"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,558 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ntmsecurity.sova"
+4    android:versionCode="20"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SEND_SMS" />
+11-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_SMS" />
+12-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+13-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:8:5-95
+13-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:8:22-92
+14    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+14-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:9:5-70
+14-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:9:22-67
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:11:5-79
+16-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+17-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:12:5-85
+17-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:12:22-82
+18    <uses-permission android:name="android.permission.READ_CONTACTS" />
+18-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:13:5-72
+18-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:13:22-69
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:14:5-81
+19-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+20-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:15:5-85
+20-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:15:22-82
+21    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+21-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:16:5-77
+21-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:16:22-74
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:17:5-76
+22-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:17:22-73
+23    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+23-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:18:5-76
+23-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:18:22-73
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:19:5-67
+24-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:19:22-64
+25    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+25-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:20:5-78
+25-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:20:22-75
+26    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+26-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:21:5-75
+26-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:21:22-72
+27    <uses-permission android:name="android.permission.CAMERA" />
+27-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:22:5-65
+27-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:22:22-62
+28    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+28-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:23:5-71
+28-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:23:22-68
+29    <uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+29-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:24:5-26:47
+29-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:25:9-77
+30    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+30-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:27:5-29:47
+30-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:28:9-64
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:9:5-68
+31-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:9:22-65
+32
+33    <queries>
+33-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:11:5-18:15
+34        <intent>
+34-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:12:9-14:18
+35            <action android:name="org.unifiedpush.android.distributor.REGISTER" />
+35-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:13:13-83
+35-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:13:21-80
+36        </intent>
+37        <intent>
+37-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:15:9-17:18
+38            <action android:name="org.unifiedpush.android.distributor.UNREGISTER" />
+38-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:16:13-85
+38-->[com.github.UnifiedPush:android-connector:2.0.0] C:\Users\moham\.gradle\caches\transforms-3\b4b1bdd454b1b0265b72b2ebe8f1a85a\transformed\jetified-android-connector-2.0.0\AndroidManifest.xml:16:21-82
+39        </intent>
+40    </queries>
+41
+42    <application
+42-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:31:5-243:19
+43        android:allowBackup="false"
+43-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:32:9-36
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.8.0] C:\Users\moham\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+45        android:dataExtractionRules="@xml/data_extraction_rules"
+45-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:33:9-65
+46        android:debuggable="true"
+47        android:fullBackupContent="false"
+47-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:34:9-42
+48        android:icon="@mipmap/ic_launcher"
+48-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:35:9-43
+49        android:label="@string/app_name"
+49-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:36:9-41
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:37:9-54
+51        android:supportsRtl="true"
+51-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:38:9-35
+52        android:testOnly="true"
+53        android:theme="@style/AppTheme"
+53-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:39:9-40
+54        android:usesCleartextTraffic="true" >
+54-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:40:9-44
+55        <activity
+55-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:42:9-48:20
+56            android:name="com.ntmsecurity.sova.ui.listview_item"
+56-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:43:13-45
+57            android:exported="false" >
+57-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:44:13-37
+58            <meta-data
+58-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+59                android:name="android.app.lib_name"
+59-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+60                android:value="" />
+60-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+61        </activity>
+62        <activity
+62-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:49:9-55:20
+63            android:name="com.ntmsecurity.sova.ui.TrySendSMS"
+63-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:50:13-42
+64            android:exported="false" >
+64-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:51:13-37
+65            <meta-data
+65-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+66                android:name="android.app.lib_name"
+66-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+67                android:value="" />
+67-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+68        </activity>
+69        <activity
+69-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:56:9-62:20
+70            android:name="com.ntmsecurity.sova.ui.AvailableActions"
+70-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:57:13-48
+71            android:exported="false" >
+71-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:58:13-37
+72            <meta-data
+72-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+73                android:name="android.app.lib_name"
+73-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+74                android:value="" />
+74-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+75        </activity>
+76        <activity
+76-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:63:9-69:20
+77            android:name="com.ntmsecurity.sova.ui.JustSMS"
+77-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:64:13-39
+78            android:exported="false" >
+78-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:65:13-37
+79            <meta-data
+79-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+80                android:name="android.app.lib_name"
+80-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+81                android:value="" />
+81-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+82        </activity>
+83        <activity
+83-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:70:9-76:20
+84            android:name="com.ntmsecurity.sova.ui.AccessContact"
+84-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:71:13-45
+85            android:exported="false" >
+85-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:72:13-37
+86            <meta-data
+86-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+87                android:name="android.app.lib_name"
+87-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+88                android:value="" />
+88-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+89        </activity>
+90        <activity
+90-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:77:9-83:20
+91            android:name="com.ntmsecurity.sova.ui.AccessLocationDes"
+91-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:78:13-49
+92            android:exported="false" >
+92-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:79:13-37
+93            <meta-data
+93-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+94                android:name="android.app.lib_name"
+94-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+95                android:value="" />
+95-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+96        </activity>
+97        <activity
+97-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:84:9-90:20
+98            android:name="com.ntmsecurity.sova.ui.GetStarted"
+98-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:85:13-42
+99            android:exported="false" >
+99-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:86:13-37
+100            <meta-data
+100-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+101                android:name="android.app.lib_name"
+101-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+102                android:value="" />
+102-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+103        </activity>
+104        <activity
+104-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:91:9-103:20
+105            android:name="com.ntmsecurity.sova.ui.StartActivity"
+105-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:92:13-45
+106            android:exported="true" >
+106-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:93:13-36
+107            <intent-filter>
+107-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:94:13-98:29
+108                <action android:name="android.intent.action.MAIN" />
+108-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:17-69
+108-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:25-66
+109
+110                <category android:name="android.intent.category.LAUNCHER" />
+110-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:17-77
+110-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:27-74
+111            </intent-filter>
+112
+113            <meta-data
+113-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:45:13-47:36
+114                android:name="android.app.lib_name"
+114-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:46:17-52
+115                android:value="" />
+115-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:47:17-33
+116        </activity>
+117        <activity
+117-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:104:9-107:66
+118            android:name="com.ntmsecurity.sova.ui.DummyCameraActivity"
+118-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:105:13-51
+119            android:exported="false"
+119-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:106:13-37
+120            android:theme="@style/Theme.AppCompat.Translucent" />
+120-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:107:13-63
+121        <activity
+121-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:108:9-110:59
+122            android:name="com.ntmsecurity.sova.ui.settings.SovaServerActivity"
+122-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:109:13-59
+123            android:label="@string/Settings_SovaServer" />
+123-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:110:13-56
+124        <activity android:name="com.ntmsecurity.sova.ui.settings.OpenCellIdActivity" />
+124-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:111:9-68
+124-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:111:19-65
+125        <activity
+125-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:112:9-114:59
+126            android:name="com.ntmsecurity.sova.ui.settings.SovaConfigActivity"
+126-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:113:13-59
+127            android:label="@string/Settings_SovaConfig" />
+127-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:114:13-56
+128        <activity
+128-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:115:9-117:54
+129            android:name="com.ntmsecurity.sova.ui.settings.AboutActivity"
+129-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:116:13-54
+130            android:label="@string/Settings_About" />
+130-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:117:13-51
+131        <activity
+131-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:118:9-120:58
+132            android:name="com.ntmsecurity.sova.ui.settings.WhiteListActivity"
+132-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:119:13-58
+133            android:label="@string/Settings_WhiteList" />
+133-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:120:13-55
+134        <activity
+134-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:121:9-123:57
+135            android:name="com.ntmsecurity.sova.ui.settings.SettingsActivity"
+135-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:122:13-57
+136            android:label="@string/Settings_Settings" />
+136-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:123:13-54
+137        <activity
+137-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:124:9-126:45
+138            android:name="com.ntmsecurity.sova.ui.CrashedActivity"
+138-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:125:13-47
+139            android:process=":bug_report" />
+139-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:126:13-42
+140        <activity
+140-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:127:9-129:35
+141            android:name="com.ntmsecurity.sova.ui.LogActivity"
+141-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:128:13-43
+142            android:label="LOG" />
+142-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:129:13-32
+143        <activity
+143-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:130:9-135:43
+144            android:name="com.ntmsecurity.sova.ui.RingerActivity"
+144-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:131:13-46
+145            android:screenOrientation="sensorPortrait"
+145-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:132:13-55
+146            android:showOnLockScreen="true"
+146-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:133:13-44
+147            android:showWhenLocked="true"
+147-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:134:13-42
+148            android:turnScreenOn="true" />
+148-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:135:13-40
+149        <activity android:name="com.ntmsecurity.sova.ui.IntroductionActivity" />
+149-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:136:9-61
+149-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:136:19-58
+150        <activity
+150-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:137:9-140:47
+151            android:name="com.ntmsecurity.sova.ui.LockScreenMessage"
+151-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:138:13-49
+152            android:screenOrientation="sensorPortrait"
+152-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:139:13-55
+153            android:showOnLockScreen="true" />
+153-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:140:13-44
+154        <activity
+154-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:141:9-149:20
+155            android:name="com.ntmsecurity.sova.ui.MainActivity"
+155-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:142:13-44
+156            android:exported="true" >
+156-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:143:13-36
+157            <intent-filter>
+157-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:94:13-98:29
+158                <action android:name="android.intent.action.MAIN" />
+158-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:17-69
+158-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:95:25-66
+159
+160                <category android:name="android.intent.category.LAUNCHER" />
+160-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:17-77
+160-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:97:27-74
+161            </intent-filter>
+162        </activity>
+163
+164        <receiver
+164-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:151:9-162:20
+165            android:name="com.ntmsecurity.sova.receiver.DeviceAdminReceiver"
+165-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:152:13-77
+166            android:exported="true"
+166-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:153:13-36
+167            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+167-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:154:13-70
+168            <meta-data
+168-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:155:13-157:63
+169                android:name="android.app.device_admin"
+169-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:156:17-56
+170                android:resource="@xml/device_admin_policy" />
+170-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:157:17-60
+171
+172            <intent-filter>
+172-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:159:13-161:29
+173                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+173-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:160:17-82
+173-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:160:25-79
+174            </intent-filter>
+175        </receiver>
+176        <receiver
+176-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:163:9-171:20
+177            android:name="com.ntmsecurity.sova.receiver.BootReceiver"
+177-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:164:13-70
+178            android:directBootAware="true"
+178-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:165:13-43
+179            android:enabled="true"
+179-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:166:13-35
+180            android:exported="true" >
+180-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:167:13-36
+181            <intent-filter>
+181-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:168:13-170:29
+182                <action android:name="android.intent.action.BOOT_COMPLETED" />
+182-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:169:17-79
+182-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:169:25-76
+183            </intent-filter>
+184        </receiver>
+185        <receiver
+185-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:172:9-181:20
+186            android:name="com.ntmsecurity.sova.receiver.SMSReceiver"
+186-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:173:13-69
+187            android:directBootAware="true"
+187-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:174:13-43
+188            android:enabled="true"
+188-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:175:13-35
+189            android:exported="true"
+189-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:176:13-36
+190            android:permission="android.permission.RECEIVE_SMS" >
+190-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:177:13-64
+191            <intent-filter android:priority="100000000" >
+191-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:178:13-180:29
+191-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:178:28-56
+192                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+192-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:179:17-82
+192-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:179:25-79
+193            </intent-filter>
+194        </receiver>
+195        <receiver
+195-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:182:9-188:20
+196            android:name="com.ntmsecurity.sova.receiver.AppUpdatedReceiver"
+196-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:183:13-76
+197            android:exported="true" >
+197-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:184:13-36
+198            <intent-filter>
+198-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:185:13-187:29
+199                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+199-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:186:17-84
+199-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:186:25-81
+200            </intent-filter>
+201        </receiver>
+202
+203        <service
+203-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:190:9-194:72
+204            android:name="com.ntmsecurity.sova.services.SovaServerService"
+204-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:191:13-75
+205            android:exported="true"
+205-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:192:13-36
+206            android:foregroundServiceType="location"
+206-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:193:13-53
+207            android:permission="android.permission.BIND_JOB_SERVICE" />
+207-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:194:13-69
+208        <service
+208-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:195:9-199:72
+209            android:name="com.ntmsecurity.sova.services.SovaServerCommandService"
+209-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:196:13-82
+210            android:exported="true"
+210-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:197:13-36
+211            android:foregroundServiceType="location"
+211-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:198:13-53
+212            android:permission="android.permission.BIND_JOB_SERVICE" />
+212-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:199:13-69
+213        <service
+213-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:200:9-204:72
+214            android:name="com.ntmsecurity.sova.services.TempContactExpiredService"
+214-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:201:13-83
+215            android:enabled="true"
+215-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:202:13-35
+216            android:exported="true"
+216-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:203:13-36
+217            android:permission="android.permission.BIND_JOB_SERVICE" />
+217-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:204:13-69
+218        <service
+218-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:205:9-209:72
+219            android:name="com.ntmsecurity.sova.services.GPSTimeOutService"
+219-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:206:13-75
+220            android:enabled="true"
+220-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:207:13-35
+221            android:exported="true"
+221-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:208:13-36
+222            android:permission="android.permission.BIND_JOB_SERVICE" />
+222-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:209:13-69
+223        <service
+223-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:210:9-215:72
+224            android:name="com.ntmsecurity.sova.services.SovaSMSService"
+224-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:211:13-72
+225            android:enabled="true"
+225-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:212:13-35
+226            android:exported="true"
+226-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:213:13-36
+227            android:foregroundServiceType="location"
+227-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:214:13-53
+228            android:permission="android.permission.BIND_JOB_SERVICE" />
+228-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:215:13-69
+229        <service
+229-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:216:9-225:19
+230            android:name="com.ntmsecurity.sova.services.ThirdPartyAccessService"
+230-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:217:13-81
+231            android:enabled="true"
+231-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:218:13-35
+232            android:exported="true"
+232-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:219:13-36
+233            android:foregroundServiceType="location"
+233-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:220:13-53
+234            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" >
+234-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:221:13-87
+235            <intent-filter>
+235-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:222:13-224:29
+236                <action android:name="android.service.notification.NotificationListenerService" />
+236-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:223:17-99
+236-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:223:25-96
+237            </intent-filter>
+238        </service>
+239
+240        <receiver
+240-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:227:9-238:20
+241            android:name="com.ntmsecurity.sova.receiver.PushReceiver"
+241-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:228:13-70
+242            android:enabled="true"
+242-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:229:13-35
+243            android:exported="true" >
+243-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:230:13-36
+244            <intent-filter>
+244-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:231:13-237:29
+245                <action android:name="org.unifiedpush.android.connector.MESSAGE" />
+245-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:232:17-84
+245-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:232:25-81
+246                <action android:name="org.unifiedpush.android.connector.UNREGISTERED" />
+246-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:233:17-89
+246-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:233:25-86
+247                <action android:name="org.unifiedpush.android.connector.NEW_ENDPOINT" />
+247-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:234:17-89
+247-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:234:25-86
+248                <action android:name="org.unifiedpush.android.connector.REGISTRATION_FAILED" />
+248-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:235:17-96
+248-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:235:25-93
+249                <action android:name="org.unifiedpush.android.connector.REGISTRATION_REFUSED" />
+249-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:236:17-97
+249-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:236:25-94
+250            </intent-filter>
+251        </receiver>
+252
+253        <meta-data
+253-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:240:9-242:57
+254            android:name="preloaded_fonts"
+254-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:241:13-43
+255            android:resource="@array/preloaded_fonts" />
+255-->C:\Users\moham\Documents\VsCodeApps\Sova\app\src\main\AndroidManifest.xml:242:13-54
+256
+257        <service
+257-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:26:9-35:19
+258            android:name="androidx.camera.core.impl.MetadataHolderService"
+258-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:27:13-75
+259            android:enabled="false"
+259-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:28:13-36
+260            android:exported="false" >
+260-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:29:13-37
+261            <meta-data
+261-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:32:13-34:89
+262                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+262-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:33:17-103
+263                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+263-->[androidx.camera:camera-camera2:1.1.0] C:\Users\moham\.gradle\caches\transforms-3\de9789bc088eff1ee129c5ba94de8f5a\transformed\jetified-camera-camera2-1.1.0\AndroidManifest.xml:34:17-86
+264        </service>
+265
+266        <uses-library
+266-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+267            android:name="androidx.window.extensions"
+267-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+268            android:required="false" />
+268-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+269        <uses-library
+269-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+270            android:name="androidx.window.sidecar"
+270-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+271            android:required="false" />
+271-->[androidx.window:window:1.0.0] C:\Users\moham\.gradle\caches\transforms-3\667a55a46d542d987d1cb5838a22b5f6\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+272
+273        <provider
+273-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+274            android:name="androidx.startup.InitializationProvider"
+274-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+275            android:authorities="com.ntmsecurity.sova.androidx-startup"
+275-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+276            android:exported="false" >
+276-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+277            <meta-data
+277-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+278                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+278-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+279                android:value="androidx.startup" />
+279-->[androidx.emoji2:emoji2:1.2.0] C:\Users\moham\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+280            <meta-data
+280-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+281                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+281-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+282                android:value="androidx.startup" />
+282-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\moham\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+283        </provider>
+284    </application>
+285
+286</manifest>
